@@ -4,9 +4,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/DeniesKresna/bengkelgin/service/extensions/terror"
-	"github.com/DeniesKresna/bengkelgin/service/modules/user/usecase"
-	"github.com/DeniesKresna/bengkelgin/types/constants"
+	"github.com/DeniesKresna/brigunaduty/service/extensions/terror"
+	"github.com/DeniesKresna/brigunaduty/service/modules/user/usecase"
+	"github.com/DeniesKresna/brigunaduty/types/constants"
 	"github.com/DeniesKresna/gohelper/utstring"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"

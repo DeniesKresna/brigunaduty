@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/DeniesKresna/bengkelgin/config"
-	"github.com/DeniesKresna/bengkelgin/service"
+	"github.com/DeniesKresna/brigunaduty/config"
+	"github.com/DeniesKresna/brigunaduty/service"
 	"github.com/joho/godotenv"
 )
 

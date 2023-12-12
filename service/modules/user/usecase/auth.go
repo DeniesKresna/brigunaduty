@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/DeniesKresna/bengkelgin/service/extensions/terror"
-	"github.com/DeniesKresna/bengkelgin/types/constants"
-	"github.com/DeniesKresna/bengkelgin/types/models"
+	"github.com/DeniesKresna/brigunaduty/service/extensions/terror"
+	"github.com/DeniesKresna/brigunaduty/types/constants"
+	"github.com/DeniesKresna/brigunaduty/types/models"
 	"github.com/DeniesKresna/gohelper/utstring"
 	"github.com/DeniesKresna/gohelper/utstruct"
 	"github.com/dgrijalva/jwt-go"

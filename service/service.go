@@ -1,15 +1,15 @@
 package service
 
 import (
-	"github.com/DeniesKresna/bengkelgin/config"
-	"github.com/DeniesKresna/bengkelgin/service/middlewares"
-	benghandler "github.com/DeniesKresna/bengkelgin/service/modules/bengkel/handler"
-	bengrepo "github.com/DeniesKresna/bengkelgin/service/modules/bengkel/repository"
-	bengcase "github.com/DeniesKresna/bengkelgin/service/modules/bengkel/usecase"
-	userhandler "github.com/DeniesKresna/bengkelgin/service/modules/user/handler"
-	userrepo "github.com/DeniesKresna/bengkelgin/service/modules/user/repository"
-	"github.com/DeniesKresna/bengkelgin/service/modules/user/usecase"
-	usercase "github.com/DeniesKresna/bengkelgin/service/modules/user/usecase"
+	"github.com/DeniesKresna/brigunaduty/config"
+	"github.com/DeniesKresna/brigunaduty/service/middlewares"
+	benghandler "github.com/DeniesKresna/brigunaduty/service/modules/bengkel/handler"
+	bengrepo "github.com/DeniesKresna/brigunaduty/service/modules/bengkel/repository"
+	bengcase "github.com/DeniesKresna/brigunaduty/service/modules/bengkel/usecase"
+	userhandler "github.com/DeniesKresna/brigunaduty/service/modules/user/handler"
+	userrepo "github.com/DeniesKresna/brigunaduty/service/modules/user/repository"
+	"github.com/DeniesKresna/brigunaduty/service/modules/user/usecase"
+	usercase "github.com/DeniesKresna/brigunaduty/service/modules/user/usecase"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )

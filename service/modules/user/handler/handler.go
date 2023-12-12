@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/DeniesKresna/bengkelgin/service/extensions/helper"
-	"github.com/DeniesKresna/bengkelgin/service/extensions/terror"
-	"github.com/DeniesKresna/bengkelgin/service/modules/user/usecase"
-	"github.com/DeniesKresna/bengkelgin/types/constants"
-	"github.com/DeniesKresna/bengkelgin/types/models"
+	"github.com/DeniesKresna/brigunaduty/service/extensions/helper"
+	"github.com/DeniesKresna/brigunaduty/service/extensions/terror"
+	"github.com/DeniesKresna/brigunaduty/service/modules/user/usecase"
+	"github.com/DeniesKresna/brigunaduty/types/constants"
+	"github.com/DeniesKresna/brigunaduty/types/models"
 	"github.com/DeniesKresna/gohelper/utstring"
 	"github.com/gin-gonic/gin"
 )

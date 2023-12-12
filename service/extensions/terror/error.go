@@ -6,7 +6,7 @@ import (
 	nativeRuntime "runtime"
 	"strings"
 
-	"github.com/DeniesKresna/bengkelgin/types/constants"
+	"github.com/DeniesKresna/brigunaduty/types/constants"
 	"github.com/DeniesKresna/gohelper/utstring"
 )
 

@@ -1,10 +1,10 @@
 package usecase
 
 import (
-	"github.com/DeniesKresna/bengkelgin/service/extensions/helper"
-	"github.com/DeniesKresna/bengkelgin/service/extensions/terror"
-	"github.com/DeniesKresna/bengkelgin/types/constants"
-	"github.com/DeniesKresna/bengkelgin/types/models"
+	"github.com/DeniesKresna/brigunaduty/service/extensions/helper"
+	"github.com/DeniesKresna/brigunaduty/service/extensions/terror"
+	"github.com/DeniesKresna/brigunaduty/types/constants"
+	"github.com/DeniesKresna/brigunaduty/types/models"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/crypto/bcrypt"
 )

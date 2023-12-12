@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/DeniesKresna/bengkelgin/types/constants"
+	"github.com/DeniesKresna/brigunaduty/types/constants"
 	"github.com/DeniesKresna/gohelper/utstring"
 	"github.com/gin-gonic/gin"
 )

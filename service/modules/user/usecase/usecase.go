@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/DeniesKresna/bengkelgin/service/modules/user/repository"
+import "github.com/DeniesKresna/brigunaduty/service/modules/user/repository"
 
 type UserUsecase struct {
 	userRepo repository.UserRepository
